@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foreach-And-If-Elseif-Else-Arrays", "Foreach-And-If-Elseif-Else-Arrays.csproj", "{9046A535-DE33-467A-8425-4124669C20D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9046A535-DE33-467A-8425-4124669C20D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9046A535-DE33-467A-8425-4124669C20D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9046A535-DE33-467A-8425-4124669C20D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9046A535-DE33-467A-8425-4124669C20D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AB26AC6-DA1E-4C54-8836-261DBAFEA89F}
+	EndGlobalSection
+EndGlobal
